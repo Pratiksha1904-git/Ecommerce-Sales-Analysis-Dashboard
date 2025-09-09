@@ -56,15 +56,6 @@ Leadership needed an **interactive dashboard** to identify:
 
 ---
 
-## 🧮 Calendar Table (DAX)  
-```DAX
-Calendar =
-ADDCOLUMNS (
-    CALENDAR ( DATE(2019,1,1), DATE(2023,12,31) ),
-    "Year", YEAR([Date]),
-    "Month", FORMAT([Date], "MMMM"),
-    "Month Number", MONTH([Date])
-)
 
 ## ✨ Key Features
 
