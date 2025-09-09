@@ -66,7 +66,7 @@ ADDCOLUMNS (
     "Month Number", MONTH([Date])
 )
 
-## ✨ Key Features  
+## ✨ Key Features
 
 - 📊 **KPI Cards** → YTD Sales, YTD Profit, YTD Quantity, Profit Margin %  
 - 📈 **YoY Growth Indicators** → Show positive/negative sales & profit growth  
@@ -77,14 +77,14 @@ ADDCOLUMNS (
 
 ---
 
-## 📸 Dashboard Screenshot  
+## 📸 Dashboard Screenshot
 
-### E-commerce Dashboard  
-<img width="1195" height="671" alt="Ecommerce_Dashoard_screenshot" src="https://github.com/user-attachments/assets/547aa68b-c779-493a-a0b8-0e96a995e634" />
+### E-commerce Dashboard
+![E-commerce Dashboard](screenshots/ecommerce_dashboard.png)  
 
 ---
 
-## 📌 Business Impact  
+## 📌 Business Impact
 
 - Helped identify **underperforming products and categories** for corrective action  
 - Highlighted **regional opportunities** to target marketing campaigns  
@@ -93,11 +93,12 @@ ADDCOLUMNS (
 
 ---
 
-## 🚀 Skills Used  
+## 🚀 Skills Used
 
 - **MySQL** – Data connection & source integration  
 - **Power BI** – Data modeling, DAX measures, dashboard design  
 - **Excel** – Minor cleaning & validation  
-- **Data Storytelling** – Translating data into actionable business insights
+- **Data Storytelling** – Translating data into actionable business insights  
+
 
 
