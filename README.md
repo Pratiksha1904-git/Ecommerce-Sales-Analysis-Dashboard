@@ -52,7 +52,7 @@ Leadership needed an **interactive dashboard** to identify:
 - `Calendar[Date]` (1) ──▶ (*) `ecommerce_data[Order_Date]`  
 - `us_state_long_lat_codes[State]` (1) ──▶ (*) `ecommerce_data[State]`  
 
-![Data Model](modeling/data_model.png)  
+<img width="1318" height="670" alt="Ecommerce_DataModeling" src="https://github.com/user-attachments/assets/15c9c91c-8a24-4902-bd4e-cc533f4bdbb2" />
 
 ---
 
@@ -65,4 +65,39 @@ ADDCOLUMNS (
     "Month", FORMAT([Date], "MMMM"),
     "Month Number", MONTH([Date])
 )
+
+## ✨ Key Features  
+
+- 📊 **KPI Cards** → YTD Sales, YTD Profit, YTD Quantity, Profit Margin %  
+- 📈 **YoY Growth Indicators** → Show positive/negative sales & profit growth  
+- 🏆 **Top & Bottom Products** → Top 5 and Bottom 5 items by sales revenue  
+- 🛍️ **Sales by Category/Sub-category** → Breakdown of Furniture, Office Supplies, Technology  
+- 🌍 **Regional Sales Map** → Sales contribution by State & Region (West, East, Central, South)  
+- 🚚 **Shipping Mode Analysis** → Standard, Second Class, First Class, Same Day  
+
+---
+
+## 📸 Dashboard Screenshot  
+
+### E-commerce Dashboard  
+<img width="1195" height="671" alt="Ecommerce_Dashoard_screenshot" src="https://github.com/user-attachments/assets/547aa68b-c779-493a-a0b8-0e96a995e634" />
+
+---
+
+## 📌 Business Impact  
+
+- Helped identify **underperforming products and categories** for corrective action  
+- Highlighted **regional opportunities** to target marketing campaigns  
+- Improved decision-making on **shipping methods** to increase profitability  
+- Delivered a **single source of truth** for executives to track sales performance  
+
+---
+
+## 🚀 Skills Used  
+
+- **MySQL** – Data connection & source integration  
+- **Power BI** – Data modeling, DAX measures, dashboard design  
+- **Excel** – Minor cleaning & validation  
+- **Data Storytelling** – Translating data into actionable business insights  
+
 
