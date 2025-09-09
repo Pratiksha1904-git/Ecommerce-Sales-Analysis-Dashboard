@@ -98,6 +98,6 @@ ADDCOLUMNS (
 - **MySQL** – Data connection & source integration  
 - **Power BI** – Data modeling, DAX measures, dashboard design  
 - **Excel** – Minor cleaning & validation  
-- **Data Storytelling** – Translating data into actionable business insights  
+- **Data Storytelling** – Translating data into actionable business insights
 
 
