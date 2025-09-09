@@ -70,8 +70,8 @@ Leadership needed an **interactive dashboard** to identify:
 
 ## 📸 Dashboard Screenshot
 
-### E-commerce Dashboard
-![E-commerce Dashboard](screenshots/ecommerce_dashboard.png)  
+### E-commerce Dashboard 
+<img width="1195" height="671" alt="Ecommerce_Dashoard_screenshot" src="https://github.com/user-attachments/assets/28cb5ae2-6e46-455d-b045-08e2cd725037" />
 
 ---
 
